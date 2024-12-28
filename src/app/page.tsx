@@ -8,7 +8,7 @@ export default function Home() {
         <Box>
           <Container>
             <Typography variant="h1" sx={{fontWeight: 500}}>WELCOME TO FESTIVAL RECAPS</Typography>
-            <Typography variant="subtitle1">Learn More</Typography>
+            <Typography variant="subtitle1">Learn More →</Typography>
           </Container>
         </Box>
       </div>

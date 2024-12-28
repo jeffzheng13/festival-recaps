@@ -9,9 +9,9 @@ const navigation = [
   { name: "Raves", href: "/raves", current: false },
 ];
 
-function classNames(...classes: string[]) {
-  return classes.filter(Boolean).join(" ");
-}
+// function classNames(...classes: string[]) {
+//   return classes.filter(Boolean).join(" ");
+// }
 
 export default function NavBar() {
   const pathname = usePathname();
